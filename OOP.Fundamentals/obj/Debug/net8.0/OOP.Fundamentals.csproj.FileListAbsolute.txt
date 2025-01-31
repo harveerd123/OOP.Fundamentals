@@ -1,0 +1,17 @@
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\bin\Debug\net8.0\OOP.Fundamentals.exe
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\bin\Debug\net8.0\OOP.Fundamentals.deps.json
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\bin\Debug\net8.0\OOP.Fundamentals.runtimeconfig.json
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\bin\Debug\net8.0\OOP.Fundamentals.dll
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\bin\Debug\net8.0\OOP.Fundamentals.pdb
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\obj\Debug\net8.0\OOP.Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\obj\Debug\net8.0\OOP.Fundamentals.AssemblyInfoInputs.cache
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\obj\Debug\net8.0\OOP.Fundamentals.AssemblyInfo.cs
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\obj\Debug\net8.0\OOP.Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\obj\Debug\net8.0\OOP.Fundamentals.dll
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\obj\Debug\net8.0\refint\OOP.Fundamentals.dll
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\obj\Debug\net8.0\OOP.Fundamentals.pdb
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\obj\Debug\net8.0\OOP.Fundamentals.genruntimeconfig.cache
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\obj\Debug\net8.0\ref\OOP.Fundamentals.dll
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\obj\Debug\net8.0\OOP.Fundamentals.csproj.AssemblyReference.cache
+C:\Users\harveer.dole\source\repos\OOP.Fundamentals\OOP.Fundamentals\obj\Debug\net8.0\OOP.Fundamentals.csproj.CopyComplete

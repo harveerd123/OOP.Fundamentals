@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Kr8yYsnmhMkdSvugkweHlpThxgU3Dca9PXLk2CIV0/N7EfRRMoqKomMVqYnH8UWX4WsnZDpbmC91C/Mg7qO4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harveer.dole\\source\\repos\\OOP.Fundamentals\\OOP.Fundamentals\\OOP.Fundamentals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harveer.dole\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
